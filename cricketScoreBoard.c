@@ -6,7 +6,7 @@
 /*initialize an enum for Runs from 0, 1, 2, 3*/
 enum RUNS{ RUN0, RUN1, RUN2, RUN3};
 #define FOUR 4
-#define SIX 6fdsfgsjdfgjsf
+#define SIX 6
 #define WICKET 7
 #define WIDE "Wd"
 #define OVER 6
